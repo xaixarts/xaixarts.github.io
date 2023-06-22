@@ -17,6 +17,12 @@ The workshop will take place online and will question the nature, meaning, and r
 
 **Workshop day (online): Mon 19th June 2023**
 
+# **Visual Reflection from the Workshop**
+
+![image](xaixarts_makayla.jpeg){:width="100%"}
+
+Attribution: Dr Makayla Lewis, 2023. All Rights Reserved. Website: [www.makaylalewis.co.uk](https://makaylalewis.co.uk/)
+
 ## **Themes**
 
 The themes include <u>but are not limited to</u>:
@@ -32,35 +38,66 @@ A fundamental concern of XAI research is how AI can be made more understandable 
 ### Interaction Design
 As XAIxArts is a nascent research area with no XAI models currently being used in practice there is little research on how to design the interaction with XAI for creative practice. This leaves open Interaction Design questions including: Which features of the AI model to expose to the user; How to visualise highly multi-dimensional data typical of AI models e.g. How to visualise latent spaces with 4 or more semantic dimensions; How to navigate and explore the spaces inside AI models; How to handle the entanglement between dimensions within a latent space; How to manage interaction with XAI in combination with the temporal and affective dimensions of artistic practice. 
 
+# **Schedule**
+**Monday 19 June 2023 Workshop Schedule (times in UK time: UTC + 1)**
+
+**09:00** Welcome & organiser introductions (30mins)
+
+**09:30** 7 x Presentations & demos & Q&A A (60 mins)
+
+**10:30** Break (30 mins)
+
+**11:00** Initial Landscaping/ Themes/ Community building (60 mins)
+
+**12:00** Lunch break (60 mins)
+
+**13:00** Joint Landscaping/ Themes/ Community building (60 mins)
+
+**14:00** 7 x Presentations & demos & Q&A B (60 mins)
+
+**15:00** Break (30 mins)
+
+**15:30** Revise Landscaping/ Themes/ Community building (60 mins)
+
+**16:30** Wrap up & next steps
+
+**16:45** Close
+
+
 # **Accepted Papers**
 
-**Luís Arandas, Mick Grierson and Miguel Carvalhais** Antagonising explanation and revealing bias directly through sequencing and multimodal inference [[paper]](https://xaixarts.github.io/accepted-2023/Arandas-XAIxArts-2023-Paper.pdf) 
+### Group A (09:30 to 10:30 UK Time)
 
-**Cheshta Arora and Debarun Sarkar** The Injunction of XAIxArt: Moving beyond explanation to sense-making [[paper]](https://xaixarts.github.io/accepted-2023/Arora-XAIxArts-2023-Paper.pdf)
+**[X3] Jamal Knight, Andrew Johnston and Adam Berry** Artistic control over the glitch in AI-generated motion capture [[paper]](https://xaixarts.github.io/accepted-2023/Knight-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Knight-XAIxArts-2023-Video.mp4)
 
-**Marianne Bossema, Rob Saunders and Somaya Ben Allouch** Human-Machine Co-Creativity with Older Adults -- A Learning Community to Study Explainable Dialogues [[paper]](https://xaixarts.github.io/accepted-2023/Bossema-XAIxArts-2023-Paper.pdf)
+**[X10] Lanxi Xiao, Weikai Yang, Haoze Wang, Shixia Liu and Qiong Wu** Why AI Fails: Parallax [[paper]](https://xaixarts.github.io/accepted-2023/Xiao-XAIxArts-2023-Parallax-Paper.pdf) 
 
-**Michael Clemens** Explaining the Arts: Toward a Framework for Matching Creative Tasks with Appropriate Explanation Mediums [[paper]](https://xaixarts.github.io/accepted-2023/Clemens-XAIxArts-2023-Paper.pdf) 
+**[X9] Lanxi Xiao, Weikai Yang, Haoze Wang, Shixia Liu and Qiong Wu** Why AI Fails: Shortcut [[video]](https://xaixarts.github.io/accepted-2023/video/Xiao-XAIxArts-2023-Video.mp4)
 
-**Drew Hemment, Matjaz Vidmar, Daga Panas, Dave Murray-Rust, Vaishak Belle and Ruth Aylett** Agency and legibility for artists through Experiential AI [[paper]](https://xaixarts.github.io/accepted-2023/Hemment-XAIxArts-2023-Paper.pdf)
+**[X19] Hanjie Yu, Yan Dong and Qiong Wu** User-centric AIGC products: Explainable Artificial Intelligence and AIGC products [[paper]](https://xaixarts.github.io/accepted-2023/Yu-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Yu-XAIxArts-2023-Video.mp4)
 
-**Petra Jääskeläinen** Explainable Sustainability for AI in the Arts [[paper]](https://xaixarts.github.io/accepted-2023/Jääskeläinen-XAIxArts-2023-Paper.pdf) 
+**[X2] Cheshta Arora and Debarun Sarkar** The Injunction of XAIxArt: Moving beyond explanation to sense-making [[paper]](https://xaixarts.github.io/accepted-2023/Arora-XAIxArts-2023-Paper.pdf)
 
-**Jamal Knight, Andrew Johnston and Adam Berry** Artistic control over the glitch in AI-generated motion capture [[paper]](https://xaixarts.github.io/accepted-2023/Knight-XAIxArts-2023-Paper.pdf)
+**[X12] Marianne Bossema, Rob Saunders and Somaya Ben Allouch** Human-Machine Co-Creativity with Older Adults -- A Learning Community to Study Explainable Dialogues [[paper]](https://xaixarts.github.io/accepted-2023/Bossema-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Bossema-XAIxArts-2023-Video.mp4)
 
-**Makayla Lewis** AIxArtist: A First-Person Tale of Interacting with Artificial Intelligence to Escape Creative Block [[paper]](https://xaixarts.github.io/accepted-2023/Lewis-XAIxArts-2023-Paper.pdf) 
+**[X4] Petra Jääskeläinen** Explainable Sustainability for AI in the Arts [[paper]](https://xaixarts.github.io/accepted-2023/Jaaskelainen-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Jaaskelainen-XAIxArts-2023-Video.mp4)
 
-**Ashley Noel-Hirst and Nick Bryan-Kinns** An Autoethnographic Exploration of XAI in Algorithmic Composition [[paper]](https://xaixarts.github.io/accepted-2023/Noel-Hirst-XAIxArts-2023-Paper.pdf)
+**[X17] Drew Hemment, Matjaz Vidmar, Daga Panas, Dave Murray-Rust, Vaishak Belle and Ruth Aylett** Agency and legibility for artists through Experiential AI [[paper]](https://xaixarts.github.io/accepted-2023/Hemment-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Hemment-XAIxArts-2023-Video.mp4)
 
-**Nicola Privato and Jack Armitage** A Context-Sensitive Approach to XAI in Music Performance [[paper]](https://xaixarts.github.io/accepted-2023/Privato-XAIxArts-2023-Paper.pdf) 
 
-**Gabriel Vigliensoni and Rebecca Fiebrink** Interacting with neural audio synthesis models through interactive machine learning [[paper]](https://xaixarts.github.io/accepted-2023/Vigliensoni-XAIxArts-2023-Paper.pdf)
+### Group B (14:00 to 15:00 UK Time)
 
-**Lanxi Xiao, Weikai Yang, Haoze Wang, Shixia Liu and Qiong Wu** Why AI Fails: Parallax [[paper]](https://xaixarts.github.io/accepted-2023/Xiao-XAIxArts-2023-Parallax-Paper.pdf) 
+**[X5] Makayla Lewis** AIxArtist: A First-Person Tale of Interacting with Artificial Intelligence to Escape Creative Block [[paper]](https://xaixarts.github.io/accepted-2023/Lewis-XAIxArts-2023-Paper.pdf) 
 
-**Lanxi Xiao, Weikai Yang, Haoze Wang, Shixia Liu and Qiong Wu** Why AI Fails: Shortcut
+**[X11] Luís Arandas, Mick Grierson and Miguel Carvalhais** Antagonising explanation and revealing bias directly through sequencing and multimodal inference [[paper]](https://xaixarts.github.io/accepted-2023/Arandas-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Arandas-XAIxArts-2023-Video.mp4)
 
-**Hanjie Yu, Yan Dong and Qiong Wu** User-centric AIGC products: Explainable Artificial Intelligence and AIGC products [[paper]](https://xaixarts.github.io/accepted-2023/Yu-XAIxArts-2023-Paper.pdf) 
+**[X7] Nicola Privato and Jack Armitage** A Context-Sensitive Approach to XAI in Music Performance [[paper]](https://xaixarts.github.io/accepted-2023/Privato-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Privato-XAIxArts-2023-Video.mp4)
+
+**[X12] Ashley Noel-Hirst and Nick Bryan-Kinns** An Autoethnographic Exploration of XAI in Algorithmic Composition [[paper]](https://xaixarts.github.io/accepted-2023/Noel-Hirst-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Noel-Hirst-XAIxArts-2023-Video.mp4)
+
+**[X16] Gabriel Vigliensoni and Rebecca Fiebrink** Interacting with neural audio synthesis models through interactive machine learning [[paper]](https://xaixarts.github.io/accepted-2023/Vigliensoni-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Vigliensoni-XAIxArts-2023-Video.mp4)
+
+**[X18] Michael Clemens** Explaining the Arts: Toward a Framework for Matching Creative Tasks with Appropriate Explanation Mediums [[paper]](https://xaixarts.github.io/accepted-2023/Clemens-XAIxArts-2023-Paper.pdf) [[video]](https://xaixarts.github.io/accepted-2023/video/Clemens-XAIxArts-2023-Video.mp4)
 
  
 <!-- # **Call for Participation**
@@ -104,7 +141,9 @@ Important information:
 # **Acknowledgements**
 We would like to acknowledge the support of the Engineering and Physical Sciences Research Council [grant number EP/S035362/1] PETRAS 2 & [grant number EP/V00784X/1] UKRI Trustworthy Autonomous Systems Hub. We also acknowledge support from the UKRI Centre for Doctoral Training in Artificial Intelligence and Music, supported by UK Research and Innovation [grant number EP/S022694/1].
 
-![image](PETRAS logo article.jpg){:width="28%"} ![image](tas_logo.png){:width="40%"} ![image](AIM LOGO.png){:width="27%"}
+![image](PETRAS logo article.jpg){:width="28%"} ![image](tas_logo.png){:width="40%"} 
+
+[![image](AIM LOGO.png){:width="28%"}](https://www.aim.qmul.ac.uk/) [![image](Stahr_logo.jpeg){:width="28%"}](https://www.stahrc.org)
 
 
 
