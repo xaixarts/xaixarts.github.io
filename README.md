@@ -1,3 +1,18 @@
+
+# Repository of XAIxArts Workshop's website
+
+## Usage  
+To modify the content, please modify the markdown files (i.e. `2024.md`, `past-workshops.md`)  
+
+To change colours, please modify the hex colour codes in `./assets/css/style2024.scss`  
+
+To add a new workshop, please create a new markdown file (e.g. `2025.md`), rename the `sytlesheet` parameter to `2025`, and make a copy of `./assets/css/style2024.scss` named `./assets/css/style2025.scss`   
+
+
+
+
+*** 
+
 # The Cayman theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
