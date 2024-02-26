@@ -1,14 +1,12 @@
 
-# Repository of XAIxArts Workshop's website
+# Repository of XAIxArts Workshop's website  
 
-## Usage  
+## Usage for Future Updates     
 To modify the content, please modify the markdown files (i.e. `2024.md`, `past-workshops.md`)  
 
 To change colours, please modify the hex colour codes in `./assets/css/style2024.scss`  
 
-To add a new workshop, please create a new markdown file (e.g. `2025.md`), rename the `sytlesheet` parameter to `2025`, and make a copy of `./assets/css/style2024.scss` named `./assets/css/style2025.scss`   
-
-
+To add a new workshop, please create a new markdown file (e.g. `2025.md`), rename the `sytlesheet` parameter to `2025` (i.e. the parameters at the top of the markdown file), and make a copy of `./assets/css/style2024.scss` named `style2025.scss`   
 
 
 *** 

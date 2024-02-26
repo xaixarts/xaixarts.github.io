@@ -1,8 +1,8 @@
 ---
-layout: default
+layout: workshop_index
 sytlesheet: 2024
 title: Explainable AI for the Arts - XAIxArts
-description: The international workshop on eXplainable AI for the Arts at the ACM Creativity and Cognition Conference.
+description: The international workshop on eXplainable AI for the Arts.
 show_downloads: false
 
 ---
