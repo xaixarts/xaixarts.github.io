@@ -8,6 +8,8 @@ To change colours, please modify the hex colour codes in `./assets/css/style2024
 
 To add a new workshop, please create a new markdown file (e.g. `2025.md`), rename the `sytlesheet` parameter to `2025` (i.e. the parameters at the top of the markdown file), and make a copy of `./assets/css/style2024.scss` named `style2025.scss`   
 
+To run the website locally, `cd` to the `xaixarts.github.io` folder, and run `bundle exec jekyll serve`.
+
 
 *** 
 
