@@ -23,11 +23,15 @@ Our second workshop in 2024 was held Chicago, IL, USA, and brought together 11 a
 
 * Nick Bryan-Kinns, Corey Ford, Shuoyang Zheng, Helen Kennedy, Alan Chamberlain, Makayla Lewis, Drew Hemment, Zijin Li, Qiong Wu, Lanxi Xiao, Gus Xia, Jeba Rezwana, Michael Clemens, and Gabriel Vigliensoni. 2024. Explainable AI for the Arts 2 (XAIxArts2). In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 86–92. [https://doi.org/10.1145/3635636.3660763](https://doi.org/10.1145/3635636.3660763)
 
-### Visual Reflection from the First Workshop  
+### Visual Reflection from the First Workshop in 2023
 
 ![image](./assets/archives/xaixarts_makayla.jpeg){:width="100%"}
 Attribution: Dr Makayla Lewis, 2023. All Rights Reserved. Website: [www.makaylalewis.co.uk](https://makaylalewis.co.uk/)
 
+### Co-Created Mindmap from the Second Workshop in 2024  
 
+<img src='./assets/archives/xaixarts2_co-created_mindmap.png' width='100%'>
+
+Co-created mindmap from the second workshop exploring the themes that lead to the creation of the XAIxArts Manifesto.
 
 
