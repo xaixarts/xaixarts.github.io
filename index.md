@@ -7,6 +7,6 @@ show_downloads: false
 
 ---
 
-<meta http-equiv="refresh" content="0;url=./2024" />
+<meta http-equiv="refresh" content="0;url=./workshops" />
 
-If you are not redirected in 1 second, please [click here](./2024)
+If you are not redirected in 1 second, please [click here](./workshops)
