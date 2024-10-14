@@ -7,6 +7,7 @@ show_downloads: false
 
 ---
 
+The international workshop series on explainable AI for the Arts (XAIxArts) brings together a community of researchers and creative practitioners in Human-Computer Interaction (HCI), Interaction Design, AI, explainable AI (XAI), and Digital Arts to explore the role of XAI for the Arts.
 
 # Past Workshops  
 Our first workshop in 2023 was held online and brought together 14 accepted submissions to explore the landscape of XAIxArts and identify emergent themes to help frame XAIxArts.
