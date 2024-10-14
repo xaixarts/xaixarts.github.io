@@ -21,6 +21,7 @@ Our second workshop in 2024 was held Chicago, IL, USA, and brought together 11 a
 ### Archived Workshop Descriptions  
 * Nick Bryan-Kinns, Corey Ford, Alan Chamberlain, Steven David Benford, Helen Kennedy, Zijin Li, Wu Qiong, Gus G. Xia, and Jeba Rezwana. 2023. Explainable AI for the Arts: XAIxArts. In Proceedings of the 15th Conference on Creativity and Cognition (C&C ‘23). Association for Computing Machinery, New York, NY, USA, 1–7. [https://doi.org/10.1145/3591196.3593517](https://doi.org/10.1145/3591196.3593517)
 
+* Nick Bryan-Kinns, Corey Ford, Shuoyang Zheng, Helen Kennedy, Alan Chamberlain, Makayla Lewis, Drew Hemment, Zijin Li, Qiong Wu, Lanxi Xiao, Gus Xia, Jeba Rezwana, Michael Clemens, and Gabriel Vigliensoni. 2024. Explainable AI for the Arts 2 (XAIxArts2). In Proceedings of the 16th Conference on Creativity & Cognition (C&C '24). Association for Computing Machinery, New York, NY, USA, 86–92. [https://doi.org/10.1145/3635636.3660763](https://doi.org/10.1145/3635636.3660763)
 
 ### Visual Reflection from the First Workshop  
 
