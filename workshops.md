@@ -9,11 +9,7 @@ show_downloads: false
 
 The international workshop series on explainable AI for the Arts (XAIxArts) brings together a community of researchers and creative practitioners in Human-Computer Interaction (HCI), Interaction Design, AI, explainable AI (XAI), and Digital Arts to explore the role of XAI for the Arts.
 
-The XAIxArts workshop will return at Creativity and Cognition Conference 2025:
-
-* [XAIxArts 2025](./2025) 
-
-# Past Workshops  
+# Workshops  
 Our first workshop in 2023 was held online and brought together 14 accepted submissions to explore the landscape of XAIxArts and identify emergent themes to help frame XAIxArts.
 
 * [XAIxArts 2023](./2023) [[Proceedings](https://arxiv.org/abs/2310.06428)]  
@@ -21,6 +17,10 @@ Our first workshop in 2023 was held online and brought together 14 accepted subm
 Our second workshop in 2024 was held Chicago, IL, USA, and brought together 11 accepted submissions to expand our community exploring XAIxArts.
 
 * [XAIxArts 2024](./2024) [[Proceedings](https://arxiv.org/abs/2406.14485)]
+
+Our third workshop was held online at Creativity and Cognition Conference 2025:
+
+* [XAIxArts 2025](./2025) [[Proceedings](https://arxiv.org/abs/2511.10482)]
 
 ### Archived Workshop Descriptions  
 * Nick Bryan-Kinns, Corey Ford, Alan Chamberlain, Steven David Benford, Helen Kennedy, Zijin Li, Wu Qiong, Gus G. Xia, and Jeba Rezwana. 2023. Explainable AI for the Arts: XAIxArts. In Proceedings of the 15th Conference on Creativity and Cognition (C&C ‘23). Association for Computing Machinery, New York, NY, USA, 1–7. [https://doi.org/10.1145/3591196.3593517](https://doi.org/10.1145/3591196.3593517)
