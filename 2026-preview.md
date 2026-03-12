@@ -107,7 +107,7 @@ Pictorials should be submitted to [EasyChair](https://easychair.org/my2/conferen
 * **(C) Video**\
 Videos are equivalent to papers and pictorials in terms of production standards, archival qualities, and reviewing standards. The difference is the use of audio-visual components as the primary means of conveying information.
   * For submission, please upload your video (maximum 5 minutes, maximum file size 50MB) to a file transfer site such as WeTransfer. 
-  * Please prepare a PDF document using the [ACM SIGCHI submission template format](https://www.acm.org/publications/proceedings-template) (SIGCHI ACM new, standardized single-column format, in LaTeX use the command `\documentclass[manuscript,review]`). In the document, please include the submission's title, author(s) and their affiliation(s), and 150-word abstract, and provide the URL to download your video. Please submit the PDF document to [EasyChair](https://easychair.org/my2/conference?conf=xaixarts2026). 
+  * Please prepare a PDF document using the [ACM SIGCHI submission template format](https://www.acm.org/publications/proceedings-template) (SIGCHI ACM new, standardized single-column format, in LaTeX use the command `\documentclass[manuscript,review]`). In the document, please include the submission's title, author(s) and their affiliation(s), a 150-word abstract, and provide the URL to download your video. Please submit the PDF document to [EasyChair](https://easychair.org/my2/conference?conf=xaixarts2026). 
   * Note that videos cannot be uploaded directly to the EasyChair system. Please ensure that the download link is valid until at least July 13, 2026.
 
 
@@ -117,6 +117,8 @@ Submissions will be reviewed by the organising committee and selected based on t
  * **A video presentation**. For presentation and archiving purposes we require a video presentation up to 5 minutes in length. It will be shared with participants via the workshop website prior to the workshop, and the copyright is retained by the authors. 
  * At least one author of each accepted submission must attend the workshop and that all participants must register for both the workshop and the ACM Creativity and Cognition 2026 conference.  
 
+### Lunchtime Demo
+We welcome accepted authors to bring small-scale demos to share with other participants during the break time. However, we wouldn't be able to accommodate extra technical requirements. Therefore, if you would like to bring a lightweight demo to the workshop, please indicate its size and format in your submission. A demo is not a requirement for submission.
 
 <!-- # **Proceedings**
 Proceedings of the workshop are available at [https://arxiv.org/abs/2511.10482](https://arxiv.org/abs/2511.10482)  -->
