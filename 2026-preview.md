@@ -8,7 +8,7 @@ description: The 4<sup>th</sup> international workshop on eXplainable AI for the
 <!-- > **Update:** Submissions are now closed for the workshop. Conference attendees are welcome to register and participate in our workshop without making a submission, please register interest through the [conference website](https://cc.acm.org/2024/attend/#registration).   -->
 
 # **About**
-This 4th ACM C&C workshop on explainable AI for the Arts (XAIxArts) bring together and expand a community of researchers and creative practitioners in Human-Computer Interaction (HCI), Interaction Design, AI, eXplainable AI (XAI), and Digital Arts to explore the role of XAI for the Arts. XAI is a key concern of Responsible and Human-Centred AI, emphasising HCI techniques that make opaque AI models more understandable to people. XAIxArts offers a distinctive lens to examine explainability through creative and artistic domains. Our [previous workshops](./workshops) explored the landscape and the speculative futures of AI in creative processes. The 4th workshop focuses on the *operationalisation* of XAI in the Arts. The themes includes but are not limited to:
+This 4<sup>th</sup> ACM C&C workshop on explainable AI for the Arts (XAIxArts) brings together and expands a community of researchers and creative practitioners in Human-Computer Interaction (HCI), Interaction Design, AI, eXplainable AI (XAI), and Digital Arts to explore the role of XAI for the Arts. XAI is a key concern of Responsible and Human-Centred AI, emphasising HCI techniques that make opaque AI models more understandable to people. XAIxArts offers a distinctive lens to examine explainability through creative and artistic domains. Our [previous workshops](./workshops) explored the landscape and the speculative futures of AI in creative processes. The 4<sup>th</sup> workshop focuses on the *operationalisation* of XAI in the Arts. The themes includes but are not limited to:
  * Beyond XAI as Tools
  * XAI in Creativity Support
  * Practice-Based and Critical Views on XAI
@@ -17,7 +17,7 @@ This 4th ACM C&C workshop on explainable AI for the Arts (XAIxArts) bring togeth
 
 
 ### **Important Information**   
-XAIxArts 2026 will be hosted at the ACM Creativity and Cognition Conference 2026
+XAIxArts 2026 will be held at the ACM Creativity and Cognition Conference 2026
 * **Submission Deadline:** Thursday 7<sup>th</sup> May, 2026, 23:59 AoE
 * **Notifications:** Thursday 4<sup>th</sup> June, 2026
 * **Workshop Date:** Monday 13<sup>th</sup> July, 2025
@@ -106,7 +106,7 @@ Papers should be submitted to the [EasyChair](https://easychair.org/my2/conferen
 Pictorials should be submitted to [EasyChair](https://easychair.org/my2/conference?conf=xaixarts2026) using the C&C Pictorials templates (for [inDesign](https://cc.acm.org/2026/wp-content/uploads/2025/10/ACM_CC_Pictorials_inDesign_template_2026.zip), [Word](https://cc.acm.org/2026/wp-content/uploads/2025/10/ACM_CC_2026_Pictorials_WORD_Template.docx) or [Powerpoint](https://cc.acm.org/2026/wp-content/uploads/2025/10/ACM_CC_2026_Pictorials_PowerPoint_Template.pptx)), maximum 4 pages PDF. Maximum file size 50MB. Include the submission's title, author(s) and their affiliation(s), and a 150-word abstract on the first page. In keeping with C&C Pictorial submissions, additional written sections such as Introduction, Conclusion, Discussion, Acknowledgements, and References are *optional*. The submission should focus on an annotated visual composition and use the format creatively. Examples can be found on the [C&C 2026 website](https://cc.acm.org/2026/pictorials/). Please complete all sections of the EasyChair submission system, including a Title and Abstract.  
 * **(C) Video**\
 Videos are equivalent to papers and pictorials in terms of production standards, archival qualities, and reviewing standards. The difference is the use of audio-visual components as the primary means of conveying information.
-  * For submission, please upload your video (maximum 10 minutes, maximum file size 100MB) to a file transfer site such as WeTransfer. 
+  * For submission, please upload your video (maximum 5 minutes, maximum file size 50MB) to a file transfer site such as WeTransfer. 
   * Please prepare a PDF document using the [ACM SIGCHI submission template format](https://www.acm.org/publications/proceedings-template) (SIGCHI ACM new, standardized single-column format, in LaTeX use the command `\documentclass[manuscript,review]`). In the document, please include the submission's title, author(s) and their affiliation(s), and 150-word abstract, and provide the URL to download your video. Please submit the PDF document to [EasyChair](https://easychair.org/my2/conference?conf=xaixarts2026). 
   * Note that videos cannot be uploaded directly to the EasyChair system. Please ensure that the download link is valid until at least July 13, 2026.
 
