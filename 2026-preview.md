@@ -114,9 +114,10 @@ Videos are equivalent to papers and pictorials in terms of production standards,
 Submissions will be reviewed by the organising committee and selected based on the quality of their contribution to the debate of the workshop, with a view to creating a balance of topics. If your submission is accepted, these are the requirements for being included in the proceedings:
 
  * **A camera-ready paper, pictorial, or video** will be shared with participants via the workshop website prior to the workshop, and the copyright is retained by the authors.   
- * **A video presentation**. For presentation and archiving purposes we require a video presentation up to 5 minutes in length. It will be shared with participants via the workshop website prior to the workshop, and the copyright is retained by the authors. 
- * At least one author of each accepted submission must attend the workshop and that all participants must register for both the workshop and the ACM Creativity and Cognition 2026 conference.  
+ * **A video presentation**. For paper and pictorial submissions, we require a video presentation up to 5 minutes in length for archiving purposes. It will be shared with participants via the workshop website prior to the workshop, and the copyright is retained by the authors. For video submission, the video presentation is optional.  
+ * **At least one author of each accepted submission** must attend the workshop to present their work. All workshop attendees must register for both the workshop and the ACM Creativity and Cognition 2026 conference. Please visit the conference [registration page](https://cc.acm.org/2026/registration/) for more information.
 
+ 
 ### Lunchtime Demo
 We welcome accepted authors to bring small-scale demos to share with other participants during the break time. However, we wouldn't be able to accommodate extra technical requirements. Therefore, if you would like to bring a lightweight demo to the workshop, please indicate its size and format in your submission. A demo is not a requirement for submission.
 
