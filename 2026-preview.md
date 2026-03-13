@@ -20,7 +20,7 @@ This 4<sup>th</sup> ACM C&C workshop on explainable AI for the Arts (XAIxArts) b
 XAIxArts 2026 will be held at the ACM Creativity and Cognition Conference 2026
 * **Submission Deadline:** Thursday 7<sup>th</sup> May, 2026, 23:59 AoE
 * **Notifications:** Thursday 4<sup>th</sup> June, 2026
-* **Workshop Date:** Monday 13<sup>th</sup> July, 2025
+* **Workshop Date:** Monday 13<sup>th</sup> July, 2026
 
 **Venue:** In-person, London, UK. Hosted at [Central Saint Martins, University of the Arts London](https://cc.acm.org/2026/venue/).
 
@@ -117,7 +117,7 @@ Submissions will be reviewed by the organising committee and selected based on t
  * **A video presentation**. For paper and pictorial submissions, we require a video presentation up to 5 minutes in length for archiving purposes. It will be shared with participants via the workshop website prior to the workshop, and the copyright is retained by the authors. For video submission, the video presentation is optional.  
  * **At least one author of each accepted submission** must attend the workshop to present their work. All workshop attendees must register for both the workshop and the ACM Creativity and Cognition 2026 conference. Please visit the conference [registration page](https://cc.acm.org/2026/registration/) for more information.
 
- 
+
 ### Lunchtime Demo
 We welcome accepted authors to bring small-scale demos to share with other participants during the break time. However, we wouldn't be able to accommodate extra technical requirements. Therefore, if you would like to bring a lightweight demo to the workshop, please indicate its size and format in your submission. A demo is not a requirement for submission.
 
