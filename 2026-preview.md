@@ -18,8 +18,8 @@ This 4<sup>th</sup> ACM C&C workshop on explainable AI for the Arts (XAIxArts) b
 
 ### **Important Information**   
 XAIxArts 2026 will be held at the ACM Creativity and Cognition Conference 2026
-* **Submission Deadline:** Thursday 7<sup>th</sup> May, 2026, 23:59 AoE
-* **Notifications:** Thursday 4<sup>th</sup> June, 2026
+* **Submission Deadline:** Thursday 23<sup>rd</sup> April, 2026, 23:59 AoE
+* **Notifications:** Thursday 14<sup>th</sup> May, 2026
 * **Workshop Date:** Monday 13<sup>th</sup> July, 2026
 
 **Venue:** In-person, London, UK. Hosted at [Central Saint Martins, University of the Arts London](https://cc.acm.org/2026/venue/).
